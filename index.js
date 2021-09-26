@@ -21,18 +21,17 @@ async function getStats() {
   }
   `
 
-  const stats = fetch(GITHUB_GRAPHQL_ENDPOINT, {
+  const stats = await fetch(GITHUB_GRAPHQL_ENDPOINT, {
     method: 'POST',
     body: JSON.stringify({query}),
     headers: {
       'Authorization': `Bearer ${process.env.token}`
     }
   })
-    .then(response => response.json())
 
-  console.log(await stats.data)
+  console.log(stats)
 
-  return stats
+  return stats.json()
 }
 
 const res = await getStats()
