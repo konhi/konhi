@@ -30,6 +30,8 @@ async function getStats() {
   })
     .then(response => response.json())
 
+  console.log(await stats.data)
+
   return stats
 }
 
