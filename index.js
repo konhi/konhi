@@ -25,7 +25,7 @@ async function getStats() {
     method: 'POST',
     body: JSON.stringify({query}),
     headers: {
-      'Authorization': `Bearer ${process.env.token}`
+      'Authorization': `Bearer ${process.env.TOKEN}`
     }
   })
 
