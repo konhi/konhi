@@ -1,0 +1,24 @@
+{
+  "name": "konhi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konhi/konhi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konhi/konhi/issues"
+  },
+  "homepage": "https://github.com/konhi/konhi#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^3.0.0"
+  }
+}
