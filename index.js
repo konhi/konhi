@@ -39,7 +39,6 @@ const stats = res.data.viewer.contributionsCollection
 
 
 const text = `
-<center>
 👋 Hello! I'm <b>${moment("20050512").fromNow(true)} old</b> student from <b>Poland!</b>
 
 
@@ -49,14 +48,11 @@ const text = `
 🔮 <b>${stats.totalIssueContributions}</b> Issues ✨ <b>${stats.totalPullRequestContributions}</b> Pull Requests ⌚ Last Commit <b>${moment(stats.endedAt).toNow()}</b>
 
 <br>
-<center>
 
 😊 I'm always looking for cool opportunities! Feel free to contact me throught Discord <b><konhi#1588></b> or <b>hello.konhi@gmail.com</b>
-</center>
 <br>
 
 💛 JavaScript   💚 Node.js   💙 Python   🧡 Web Dev   💖 Open-source   🐧 Linux   🐱‍💻 Git   🎨 UI
-</center>
 `
 
 fs.writeFileSync('readme.md', text)
