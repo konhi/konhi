@@ -41,9 +41,9 @@ const stats = res.data.viewer.contributionsCollection
 const text = `
 👋 Hello! I'm <b>${moment("20050512").fromNow(true)} old</b> student from <b>Poland!</b>
 
-- 🔮 **${stats.totalIssueContributions}** Issues
-- ✨ **${stats.totalPullRequestContributions}** Pull Requests
-- ⌚ Last Commit **${moment(stats.endedAt).toNow()}**
+- 🔮 Issues: **${stats.totalIssueContributions}**
+- ✨ Pull Requests: **${stats.totalPullRequestContributions}**
+- ⌚ Last Commit: **${moment(stats.endedAt).toNow()}**
 
 😊 I'm always looking for cool opportunities! Feel free to contact me throught Discord <b><konhi#1588></b> or <b>hello.konhi@gmail.com</b>
 
