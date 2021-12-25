@@ -4,7 +4,7 @@
     - [🎮 konhi#1588](https://discord.com)
     - [🦆 @konhi_](https://twitter.com/konhi_)
 
-
+- 👨‍💻 Languages in last 7 days
 <!--START_SECTION:waka-->
 ```text
 Java     5 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.13 % 
