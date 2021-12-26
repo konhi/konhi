@@ -14,3 +14,6 @@ YAML     1 hr 38 mins    ███░░░░░░░░░░░░░░░�
 Text     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 <!--END_SECTION:waka-->
+- ✨ Languages all time
+
+![Metrics](https://metrics.lecoq.io/konhi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html%2C%20css%2C%20handlebars%2C%20scss&languages.skipped=konhi%2Fpersonal-school-assignments&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FWarsaw)
