@@ -6,7 +6,7 @@ I love building tools (especially related to education) for other people. Always
 ## 🎒 ElektronPlus
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-With other students, we're developing [cool things](https://github.com/ElektronPlus) for our school, like:
+With other students, we're developing [cool things](https://github.com/ElektronPlus) for our school.
 
 #### General
 - [App for students](https://github.com/ElektronPlus/Elektron-App)
@@ -29,7 +29,7 @@ I'm currently working on [@frekwencja](https://github.com/frekwencja) - project 
 ## ✒ Obsidian
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. I created few useful tools and contributed to documentations.
+I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. I created things and contributed to documentations.
 
 #### Tools
 - [Obsidian Community List](https://github.com/konhi/obsidian-community-list)
