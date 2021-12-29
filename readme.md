@@ -2,7 +2,7 @@
 ![16 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2016%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(2/5%20year)-blueviolet?style=for-the-badge)
 
 - I love building tools (especially related to education) for other people! 💕
-- If you want to know more or you want to contact me, be sure to check my [website](https://konhi.me)!
+- Contact me using Discord (`konhi#1588`) or e-mail ([hello.konhi@gmail.com](mailto:hello.konhi@gmail.com))
 
 ## 🎒 ElektronPlus
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
