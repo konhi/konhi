@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Jan
-![16 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2016%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student-blueviolet?style=for-the-badge)
+![16 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2016%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(2/5%20year)-blueviolet?style=for-the-badge)
 
 - I love building tools (especially related to education) for other people! 💕
 - If you want to know more or you want to contact me, be sure to check my [website](https://konhi.me)!
