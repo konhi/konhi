@@ -1,8 +1,8 @@
 # 👋 Hi! I'm Jan
+![16 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2016%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student-blueviolet?style=for-the-badge)
 
-I'm a 16 years old programming student who loves building tools for other people, especially that relate to education.
-
-If you'd want to know more or contact me, be sure to check my [website](https://konhi.me)!
+- I love building tools (especially related to education) for other people! 💕
+- If you want to know more or you want to contact me, be sure to check my [website](https://konhi.me)!
 
 ## 🎒 ElektronPlus
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
