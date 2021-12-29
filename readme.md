@@ -18,7 +18,7 @@ With other students, we're developing [cool things](https://github.com/ElektronP
 - [Song On Request](https://github.com/ElektronPlus/school-song-on-request)
 - [School News to Discord](https://github.com/ElektronPlus/zseis-news)
 
-## 🃏 @frekwencja
+## 🃏 Frekwencja
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 I'm currently working on [@frekwencja](https://github.com/frekwencja) - project that tries to help in effective learning new languages by using cool methods, such as flashcards and most common words!
