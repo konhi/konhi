@@ -29,7 +29,7 @@ I'm currently working on [@frekwencja](https://github.com/frekwencja) - project 
 ## ✒ Obsidian
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. I created things and contributed to documentations.
+I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. I created few things and contributed to documentations.
 
 #### Tools
 - [📃 Obsidian Community List](https://github.com/konhi/obsidian-community-list)
