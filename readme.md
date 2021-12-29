@@ -39,3 +39,6 @@ I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity an
 #### Docs
 - [Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
 - [Obsidian Community](https://github.com/obsidian-community/obsidian-hub)
+
+## ✨ Other
+- [My graphic designs](https://dribbble.com/konhi)
