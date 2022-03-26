@@ -13,6 +13,7 @@ With other students, we're developing [cool things](https://github.com/ElektronP
 - [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api)
 - [🎮 ForgeMC, Minecraft community for students](https://github.com/ForgeMC)
 - [📝 My personal school assignments](https://github.com/konhi/personal-school-assignments)
+- [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest)
 
 #### Discord
 - [🤖 Discord Bots](https://github.com/ElektronPlus/discord)
