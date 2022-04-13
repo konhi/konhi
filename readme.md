@@ -9,7 +9,6 @@ I love building tools (especially related to education) for other people. Always
 With other students, we're developing [cool things](https://github.com/ElektronPlus) for our school.
 
 #### General
-- [📱 App for students](https://github.com/ElektronPlus/Elektron-App)
 - [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api)
 - [🎮 ForgeMC, Minecraft community for students](https://github.com/ForgeMC)
 - [📝 My personal school assignments](https://github.com/konhi/personal-school-assignments)
@@ -17,7 +16,6 @@ With other students, we're developing [cool things](https://github.com/ElektronP
 
 #### Discord
 - [🤖 Discord Bots](https://github.com/ElektronPlus/discord)
-- [🎵 Song On Request](https://github.com/ElektronPlus/school-song-on-request)
 - [📰 School News to Discord](https://github.com/ElektronPlus/zseis-news)
 
 ## 🃏 Frekwencja
