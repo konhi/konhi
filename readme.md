@@ -1,6 +1,6 @@
 <br>
 <h3 align="center">
-  <i>🐱‍💻 Programming • 🎨 Design • 🥰 People & Fun • 📖 Education • 🦄 Cool Things</i>
+  <i>🐱‍💻 Programming • 🎨 Design • 🥰 People • 📖 Education • 🦄 Cool Things</i>
 </h3>
 <br>
 
