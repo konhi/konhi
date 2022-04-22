@@ -1,3 +1,4 @@
+<br>
 <h3 align="center">
   <i>🐱‍💻 Programming • 🎨 Design • 🥰 People & Fun • 📖 Education • 🦄 Cool Things</i>
 </h3>
