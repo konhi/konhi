@@ -39,6 +39,7 @@ Feel free to contact me via [e-mail](mailto:hello.konhi@gmail.com), [Discord](ht
 
 ## ✨ Projects
 - [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest): **(progressive) web app** available on desktop and mobile - **InfluxDB**, **Grafana**, **React**, **Next.js**, **MUI**, **Vercel**... and more!
+- [📰 School News to Discord](https://github.com/ElektronPlus/zseis-news): **serverless** website parser that sends announcements to students - uses **GitHub Actions** (CI/CD), **Discord.js** (API), **Jest** (tests)
 
 ## 👅 Language Learning
 I'm currently working on [@frekwencja](https://github.com/frekwencja) - project that tries to help in effective learning new languages by using cool methods, such as flashcards and most common words
@@ -52,6 +53,19 @@ I'm currently working on [@frekwencja](https://github.com/frekwencja) - project 
 I like designing user interfaces! You can check my portfolio on [Dribbble!](https://dribbble.com/konhi)
 
 <img width="100%" src="https://user-images.githubusercontent.com/61631665/173206842-599ff3bf-5f5a-4025-99bd-7422d77d00c3.png">
+
+## ✒ Obsidian
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. You might find these things useful!
+
+#### Tools
+- [📃 Obsidian Community List](https://github.com/konhi/obsidian-community-list)
+- [📦 Obsidian Repositories Downloader](https://github.com/konhi/obsidian-repositories-downloader)
+
+#### Docs
+- [🕶️ Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
+- [🔮 Obsidian Community](https://github.com/obsidian-community/obsidian-hub)
 
 ## 🎀 Misc
 - [🇵🇱 awesome-school-projects-poland](https://github.com/wulkanowy/awesome-school-projects-poland)
