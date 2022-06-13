@@ -44,8 +44,8 @@ Feel free to contact me via [e-mail](mailto:hello.konhi@gmail.com), [Discord](ht
 ## 👅 Language Learning
 I'm currently working on [@frekwencja](https://github.com/frekwencja) - project that tries to help in effective learning new languages by using cool methods, such as flashcards and most common words
 
-- [🃏 Language Learning Flashcards](https://github.com/frekwencja/language-learning-flashcards)
-- [🏆 Most Common Words Multilingual Dataset](https://github.com/frekwencja/most-common-words-multilingual)
+- [🃏 Language Learning Flashcards](https://github.com/frekwencja/language-learning-flashcards): powerful flashcards in many formats for intelligent language learning!
+- [🏆 Most Common Words Multilingual Dataset](https://github.com/frekwencja/most-common-words-multilingual): 5050 most frequent words in 109 languages. Uses **Python** and **Pandas** (data analysis and manipulation).
 
 ## 👨‍🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -60,16 +60,16 @@ I like designing user interfaces! You can check my portfolio on [Dribbble!](http
 I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity and planning tool. You might find these things useful!
 
 #### Tools
-- [📃 Obsidian Community List](https://github.com/konhi/obsidian-community-list)
-- [📦 Obsidian Repositories Downloader](https://github.com/konhi/obsidian-repositories-downloader)
+- [📃 Obsidian Community List](https://github.com/konhi/obsidian-community-list): updated list of community themes & plugins for obsidian.md! Uses **GitHub Actions** (CI/CD) and **Generates Markdown**!
+- [📦 Obsidian Repositories Downloader](https://github.com/konhi/obsidian-repositories-downloader): learn, analyze and inspire from every obsidian.md plugin! **Parses `.json` files.**
 
 #### Docs
-- [🕶️ Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian)
-- [🔮 Obsidian Community](https://github.com/obsidian-community/obsidian-hub)
+- [🕶️ Awesome Obsidian](https://github.com/kmaasrud/awesome-obsidian): Awesome stuff for Obsidian
+- [🔮 Obsidian Community](https://github.com/obsidian-community/obsidian-hub): Resource hub for Obsidian resources.
 
 ## 🎀 Misc
-- [🇵🇱 awesome-school-projects-poland](https://github.com/wulkanowy/awesome-school-projects-poland)
-- [📝 personal-school-assignments](https://github.com/konhi/personal-school-assignments)
+- [🇵🇱 awesome-school-projects-poland](https://github.com/wulkanowy/awesome-school-projects-poland): wspaniałe projekty związane ze szkołami!
+- [📝 personal-school-assignments](https://github.com/konhi/personal-school-assignments): little bit of **PHP, HTML, CSS, JS, and SQL** I do in my school!
 
 ## ✨ Other
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English Conversational](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-conversational-blue?style=for-the-badge) ![German Beginner](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AAGerman-beginner-blue?style=for-the-badge)
