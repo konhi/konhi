@@ -41,18 +41,18 @@ Feel free to contact me via [e-mail](mailto:hello.konhi@gmail.com), [Discord](ht
 - [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest): **(progressive) web app** available on desktop and mobile - **InfluxDB**, **Grafana**, **React**, **Next.js**, **MUI**, **Vercel**... and more!
 - [📰 School News to Discord](https://github.com/ElektronPlus/zseis-news): **serverless** website parser that sends announcements to students - uses **GitHub Actions** (CI/CD), **Discord.js** (API), **Jest** (tests)
 
-## 👅 Language Learning
-I'm currently working on [@frekwencja](https://github.com/frekwencja) - project that tries to help in effective learning new languages by using cool methods, such as flashcards and most common words
-
-- [🃏 Language Learning Flashcards](https://github.com/frekwencja/language-learning-flashcards): powerful flashcards in many formats for intelligent language learning!
-- [🏆 Most Common Words Multilingual Dataset](https://github.com/frekwencja/most-common-words-multilingual): 5050 most frequent words in 109 languages. Uses **Python** and **Pandas** (data analysis and manipulation).
-
 ## 👨‍🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 I like designing user interfaces! You can check my portfolio on [Dribbble!](https://dribbble.com/konhi)
 
 <img width="100%" src="https://user-images.githubusercontent.com/61631665/173206842-599ff3bf-5f5a-4025-99bd-7422d77d00c3.png">
+
+## 👅 Language Learning
+I'm currently working on [@frekwencja](https://github.com/frekwencja) - project that tries to help in effective learning new languages by using cool methods, such as flashcards and most common words
+
+- [🃏 Language Learning Flashcards](https://github.com/frekwencja/language-learning-flashcards): powerful flashcards in many formats for intelligent language learning!
+- [🏆 Most Common Words Multilingual Dataset](https://github.com/frekwencja/most-common-words-multilingual): 5050 most frequent words in 109 languages. Uses **Python** and **Pandas** (data analysis and manipulation).
 
 ## ✒ Obsidian
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
