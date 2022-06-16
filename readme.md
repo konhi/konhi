@@ -29,7 +29,7 @@ Feel free to contact me via [e-mail](mailto:hello.konhi@gmail.com), [Discord](ht
 
 ## 👨‍💻 For Developers
 
-- [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api): **serverless**, community maintained **APIs** - **Cloudflare Workers** (Cloud Functions as a Service), **Zod** (type validation & safety). Previously used **Express (web app framework)** on **Azure**.
+- [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api): **serverless**, community maintained **APIs** - **Cloudflare Workers** (Cloud Functions as a Service), **Zod** (type validation & safety). **GitHub Actions** (CI/CD) for instant deployment. Previously used **Express (web app framework)** on **Azure**.
 - [🎒 School Website Starter](https://github.com/ElektronPlus/school-website): accessible and extremely user-friendly website template for schools in Poland, built on fun and modern stack - uses **React**, **Next.js**, **Storybook** (React Components Management & Testing), **Strapi** (Headless CMS), and **Vercel**.
 
 ## ✨ Projects
