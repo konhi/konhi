@@ -1,13 +1,13 @@
 # 👋 Heya! I'm Jan
 
-![17 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2017%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(3/5%20year)-blueviolet?style=for-the-badge) ![Discord](https://img.shields.io/badge/konhi%231588-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![E-mail](https://img.shields.io/badge/-%F0%9F%93%A7%20hello.konhi%40gmail.com-9cf?style=for-the-badge)
+![17 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2017%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(3/5%20year)-blueviolet?style=for-the-badge) ![Discord](https://img.shields.io/badge/konhi%231588-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![E-mail](https://img.shields.io/badge/-%F0%9F%93%A7%20hi%40jan.pizza-9cf?style=for-the-badge)
 
 I'm actively looking for:
 - like-minded **friends**
 - interesting **projects**
 - **business** opportunities
 
-Feel free to contact me via [e-mail](mailto:hello.konhi@gmail.com), [Discord](https://discord.com) (konhi#1588) or [Twitter](https://twitter.com/konhi_). I'm **always happy** to hear from **YOU!** 💕
+Feel free to contact me via [e-mail](mailto:hi@jan.pizza), [Discord](https://discord.com) (konhi#1588) or [Twitter](https://twitter.com/konhi_). I'm **always happy** to hear from **YOU!** 💕
 
 ---
 
