@@ -31,6 +31,7 @@ Feel free to contact me via [e-mail](mailto:hi@jan.pizza), [Discord](https://dis
 
 - [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api): **serverless**, community maintained **APIs** - **Cloudflare Workers** (Cloud Functions as a Service), **Zod** (type validation & safety). **GitHub Actions** (CI/CD) for instant deployment. Previously used **Express (web app framework)** on **Azure**.
 - [🎒 School Website Starter](https://github.com/ElektronPlus/school-website): accessible and extremely user-friendly website template for schools in Poland, built on fun and modern stack - uses **React**, **Next.js**, **Storybook** (React Components Management & Testing), **Strapi** (Headless CMS), and **Vercel**.
+- [▲ React Static Clutch Embed](https://github.com/konhi/react-static-clutch-embed): Say goodbye to iframes! Save +400 KBs (network) & +250 ms (rendering) while embeding Clutch.co widgets.
 
 ## ✨ Projects
 - [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest): **(progressive) web app** available on desktop and mobile - **InfluxDB**, **Grafana**, **React**, **Next.js**, **MUI**, **Vercel**... and more!
