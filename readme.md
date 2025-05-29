@@ -69,6 +69,3 @@ I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity an
 
 ## ✨ Other
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English Conversational](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-conversational-blue?style=for-the-badge) ![German Beginner](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AAGerman-beginner-blue?style=for-the-badge)
-
-- [⏰ Coding stats (WakaTime)](https://wakatime.com/@konhi)
-- [🎮 League of Legends account](https://u.gg/lol/profile/eun1/qratos1/overview)
